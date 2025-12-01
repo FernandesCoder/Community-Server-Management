@@ -24,3 +24,14 @@ A administração deste servidor simula um ambiente corporativo de TI, utilizand
 
 ### Automação com Bots
 <img width="800" alt="Print mostrando a tela de logs de auditoria do servidor" src="https://github.com/user-attachments/assets/93616dd4-d6c0-460f-9a76-ac88e7c50138" />
+
+### 🤖 Automação de Rotinas (Cron Jobs & Notificações)
+Implementação de sistema automatizado para distribuição de informações em tempo real (Notícias e Atualizações de Ativos do GTA V).
+
+- **O Desafio:** Necessidade de notificar a base de usuários diariamente às 03:00 AM (BRT) sem intervenção humana.
+- **A Solução:**
+  - Configuração de **Tasks Agendadas** (lógica *Cron Job*) com *offset* de segurança de 5 minutos.
+  - Estruturação de dados via **JSON (Rich Embeds)** para padronização visual.
+  - Integração com links dinâmicos, garantindo operação **100% Zero-Touch** (manutenção zero).
+
+  <img width="800" alt="Print da automação de notícias GTA V" src="https://github.com/user-attachments/assets/18580950-b724-447e-a119-43dc222c3430" />
