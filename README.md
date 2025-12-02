@@ -33,5 +33,7 @@ Implementação de sistema automatizado para distribuição de informações em 
   - Configuração de **Tasks Agendadas** (lógica *Cron Job*) com *offset* de segurança de 5 minutos.
   - Estruturação de dados via **JSON (Rich Embeds)** para padronização visual.
   - Integração com links dinâmicos, garantindo operação **100% Zero-Touch** (manutenção zero).
+    
+<img width="800" alt="Print da automação de notícias GTA V" src="https://github.com/user-attachments/assets/bbc1be1b-b525-4604-8996-b9718156bd03" />
 
-  <img width="800" alt="Print da automação de notícias GTA V" src="https://github.com/user-attachments/assets/18580950-b724-447e-a119-43dc222c3430" />
+
